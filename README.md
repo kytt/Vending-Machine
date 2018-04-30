@@ -1,1 +1,0 @@
-To learn the workflow of threads and mutex
